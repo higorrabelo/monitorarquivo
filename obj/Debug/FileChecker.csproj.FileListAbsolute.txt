@@ -1,0 +1,8 @@
+C:\Users\DeividOliveira\source\repos\FileChecker\bin\Debug\FileChecker.exe.config
+C:\Users\DeividOliveira\source\repos\FileChecker\bin\Debug\FileChecker.exe
+C:\Users\DeividOliveira\source\repos\FileChecker\bin\Debug\FileChecker.pdb
+C:\Users\DeividOliveira\source\repos\FileChecker\obj\Debug\FileChecker.csproj.AssemblyReference.cache
+C:\Users\DeividOliveira\source\repos\FileChecker\obj\Debug\FileChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\DeividOliveira\source\repos\FileChecker\obj\Debug\FileChecker.csproj.CoreCompileInputs.cache
+C:\Users\DeividOliveira\source\repos\FileChecker\obj\Debug\FileChecker.exe
+C:\Users\DeividOliveira\source\repos\FileChecker\obj\Debug\FileChecker.pdb
